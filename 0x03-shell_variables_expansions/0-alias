@@ -1,6 +1,2 @@
 #!/bin/bash
 alias ls="rm *"
-
-cd 0x03-shell_variables_expansions
-i
-
